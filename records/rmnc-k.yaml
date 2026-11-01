@@ -1,0 +1,4 @@
+subdomain: rmnc-k
+type: CNAME
+target: rmnc-k.github.io
+repository: https://github.com/rmnc-k/my-first-page
